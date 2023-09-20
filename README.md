@@ -10,6 +10,7 @@ Clone this repository to your local machine:
 npm install
 ## Start the development server:
 npm run server 
+
 npm start
 ## Open your web browser and access the application at http://localhost:3001.
 

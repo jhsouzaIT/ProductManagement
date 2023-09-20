@@ -5,8 +5,6 @@ This is a simple web application for managing a list of products. Users can add 
 To run this application locally, follow these steps:
 
 Clone this repository to your local machine:
-git clone https://github.com/your-username/product-management-app.git
-Navigate to the project directory:
 
 ## Install the required dependencies:
 npm install

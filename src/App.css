@@ -1,0 +1,54 @@
+/* App.css */
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  background-color: #333; /* Plano de fundo escuro moderno */
+}
+
+.centered-container {
+  text-align: center;
+  background-color: #444; /* Plano de fundo escuro moderno */
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); /* Sombra para efeito moderno */
+  color: #fff; /* Texto branco para tema escuro */
+  width: 80%; /* Largura do container */
+}
+
+.input-container {
+  margin-bottom: 20px;
+}
+
+input[type="text"],
+input[type="number"],
+button {
+  background-color: #555; /* Plano de fundo dos campos e botões */
+  color: #fff; /* Texto branco */
+  border: none;
+  padding: 10px;
+  margin-right: 10px;
+  border-radius: 5px;
+  transition: background-color 0.3s;
+}
+
+input[type="text"]:focus,
+input[type="number"]:focus,
+button:hover {
+  background-color: #777; /* Plano de fundo mais escuro no foco/hover */
+}
+
+.product-list {
+  list-style: none;
+  padding: 0;
+}
+
+.product-item {
+  margin-bottom: 10px;
+}
+
+
+

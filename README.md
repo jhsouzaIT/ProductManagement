@@ -9,8 +9,9 @@ Clone this repository to your local machine:
 ## Install the required dependencies:
 npm install
 ## Start the development server:
+npm run server 
 npm start
-## Open your web browser and access the application at http://localhost:3000.
+## Open your web browser and access the application at http://localhost:3001.
 
 ## Features
 Add new products with a name and price.
